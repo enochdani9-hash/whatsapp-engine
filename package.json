@@ -1,0 +1,13 @@
+{
+  "name": "whatsapp-automation-engine",
+  "version": "1.0.0",
+  "description": "WhatsApp Commerce Engine for BuildFlow",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.4.0"
+  }
+}
